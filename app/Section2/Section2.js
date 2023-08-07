@@ -1,4 +1,5 @@
 import { FunctionComponent } from 'react';
+import Image from 'next/image';
 import styles from '../Section2.module.css';
 
 const Section2 = () => {
@@ -67,7 +68,7 @@ const Section2 = () => {
           			
           					<div className={styles.img}>
             						<div className={styles.image31Wrapper}>
-              							<img className={styles.image31Icon} alt="" src="/screenshot.png" />
+              							<Image className={styles.image31Icon} alt="" src="/screenshot.png" />
             						</div>
           					</div>
           					<div className={styles.col10}>

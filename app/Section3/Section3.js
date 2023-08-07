@@ -1,4 +1,5 @@
 import { FunctionComponent } from 'react';
+import Image from 'next/image';
 import styles from '../Section3.module.css';
 const Section3 = () => {
   	
@@ -20,7 +21,7 @@ const Section3 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.forIndividualsParent}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenParent}>
                   									<div className={styles.lowEntryPrices4}>You do not have to spend hours into writing READMEs</div>
@@ -31,7 +32,7 @@ const Section3 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.forIndividualsParent}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenParent}>
                   									<div className={styles.lowEntryPrices4}>{`You do not have to update your README. `}</div>
@@ -44,7 +45,7 @@ const Section3 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.forIndividualsParent}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenParent}>
                   									<div className={styles.lowEntryPrices4}>{`You do not have to write set up instruction on READMEs. `}</div>
@@ -55,7 +56,7 @@ const Section3 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.forIndividualsParent}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenParent}>
                   									<div className={styles.lowEntryPrices4}>You do not have to create PRs to update README</div>

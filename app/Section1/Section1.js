@@ -1,4 +1,5 @@
 import { FunctionComponent } from 'react';
+import Image from 'next/image';
 import styles from '../Section1.module.css';
 const Section1 = () => {
 

@@ -1,4 +1,5 @@
 import { FunctionComponent } from 'react';
+import Image from 'next/image';
 import styles from '../Section5.module.css';
 const Section5 = () => {
   	
@@ -44,10 +45,10 @@ const Section5 = () => {
                           													</div>
                           													<div className={styles.col3}>
                             														<div className={styles.row1}>
-                              															<img className={styles.socialIcon4} alt="" src="/Facebook.svg" />
-                              															<img className={styles.socialIcon4} alt="" src="/Github.svg" />
-                              															<img className={styles.socialIcon4} alt="" src="/Twitter.svg" />
-                              															<img className={styles.socialIcon4} alt="" src="/Telegram.svg" />
+                              															<Image className={styles.socialIcon4} alt="" src="/Facebook.svg" />
+                              															<Image className={styles.socialIcon4} alt="" src="/Github.svg" />
+                              															<Image className={styles.socialIcon4} alt="" src="/Twitter.svg" />
+                              															<Image className={styles.socialIcon4} alt="" src="/Telegram.svg" />
                             														</div>
                             														<div className={styles.row2}>
                               															<div className={styles.infomissionasapcom}>info@missionasap.com</div>

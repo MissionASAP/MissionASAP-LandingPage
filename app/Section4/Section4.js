@@ -1,4 +1,5 @@
 import { FunctionComponent } from 'react';
+import Image from 'next/image';
 import styles from '../Section4.module.css';
 const Section4 = () => {
   	
@@ -18,7 +19,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Automate local code set up on the click of a button on your README.</div>
@@ -28,7 +29,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Edit and push changes to your READMEs on the click of a button without PR.</div>
@@ -40,7 +41,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Synchronise the format of README across all your repos..</div>
@@ -50,7 +51,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Update your READMEs automatically on every code push.</div>
@@ -62,7 +63,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Get Intractive README that guides new devs through the testing process of your code.</div>
@@ -72,7 +73,7 @@ const Section4 = () => {
             						<div className={styles.li1}>
               							<div className={styles.instanceParent}>
                 								<div className={styles.title}>
-                  									<img className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
+                  									<Image className={styles.cocolinetickIcon} alt="" src="/Tick.svg" />
                 								</div>
                 								<div className={styles.lowEntryPricesOnDefiTokenWrapper}>
                   									<div className={styles.lowEntryPrices6}>Pick and choose what you want in your README.</div>
