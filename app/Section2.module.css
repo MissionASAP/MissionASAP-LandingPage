@@ -1,0 +1,186 @@
+.whyTraditionalReadmes {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 64px;
+    display: inline-block;
+    width: 558px;
+    height: 214px;
+    flex-shrink: 0;
+}
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.b {
+    position: relative;
+    line-height: 28px;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.withoutABig5 {
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+    display: inline-block;
+    width: 337px;
+    flex-shrink: 0;
+}
+.col1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 18px;
+    color: #23155b;
+}
+.row {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.li {
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 8px 12px -6px rgba(35, 21, 91, 0.05), 0px 14px 64px -4px rgba(35, 21, 91, 0.05);
+    width: 580px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    padding: 24px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+}
+.ul {
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 18px;
+    color: #8053ff;
+}
+.container1 {
+    width: 1180px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.defipieLogoBg1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 133px;
+    left: 337px;
+    width: 493px;
+    height: 565px;
+    overflow: hidden;
+    flex-shrink: 0;
+    mix-blend-mode: normal;
+    z-index: 0;
+}
+.image31Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 590px;
+    height: 830px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+}
+.image31Wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 200px 200px 0px;
+    background-color: #8053ff;
+    width: 590px;
+    height: 830px;
+    overflow: hidden;
+}
+.img {
+    position: relative;
+    width: 590px;
+    height: 830px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+}
+.thatsWhyWe1 {
+    color: #23155b;
+}
+.interactiveConsistentTime {
+    color: #8053ff;
+}
+.thatsWhyWeBuiltMissionAs {
+    margin: 0;
+}
+.thatsWhyWeContainer {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 60px;
+    font-size: 40px;
+    display: inline-block;
+    width: 819px;
+    height: 344px;
+    flex-shrink: 0;
+}
+.thatsWhyWeBuiltMissionAsWrapper {
+    width: 425.28px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.col10 {
+    width: 840px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 0px 260px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 2;
+}
+.containerFluid1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+}
+.section1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 200px;
+    align-items: center;
+    justify-content: flex-start;
+}
+.section {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 52px;
+    color: #23155b;
+    font-family: Poppins;
+}
+
